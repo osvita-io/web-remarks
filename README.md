@@ -1,4 +1,4 @@
-# A web-based interface for remarks
+# A web app for marking student work
 
 web-remarks is intended as a web-based interface for
 [remarks](https://github.com/DIKU-EDU/remarks), a domain-specific
