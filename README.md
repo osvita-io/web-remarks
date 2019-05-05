@@ -19,8 +19,8 @@ into an overall evaluation (e.g., sum of given points); or
 quantitative evaluation.
 
 For example, consider a student being asked to "Write a Hello, World
-program in C", and submitting a program that does so, except that it
-does not write a terminating line-break.
+program in C". Let the student submit a program that does so, except
+that it does not write a terminating line-break.
 
 A quantitative evaluation, with a single qualitative remark may read
 as follows:
