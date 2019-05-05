@@ -18,7 +18,7 @@ into an overall evaluation (e.g., sum of given points); or
 2. qualitative _remarks_, which to a domain expert would justify the
 quantitative evaluation.
 
-For example, consider a student beign asked to "Write a Hello, World
+For example, consider a student being asked to "Write a Hello, World
 program in C", and submitting a program that does so, except that it
 does not write a terminating line-break.
 
