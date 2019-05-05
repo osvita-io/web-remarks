@@ -15,7 +15,7 @@ _recursively_ provided by:
 part/exercise), and a formal strategy as to how these are combined
 into an overall evaluation (e.g., sum of given points); or
 
-2. qualitative _remarks_, which to domain expert would justify the
+2. qualitative _remarks_, which to a domain expert would justify the
 quantitative evaluation.
 
 For example, if a student is asked to "Write a Hello, World program in
