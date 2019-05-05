@@ -18,9 +18,12 @@ into an overall evaluation (e.g., sum of given points); or
 2. qualitative _remarks_, which to a domain expert would justify the
 quantitative evaluation.
 
-For example, if a student is asked to "Write a Hello, World program in
-C", a quantitative evaluation with a single qualitative remark may
-read as follows:
+For example, consider a student beign asked to "Write a Hello, World
+program in C", and submitting a program that does so, except that it
+does not write a terminating line-break.
+
+A quantitative evaluation, with a single qualitative remark may read
+as follows:
 
 ```
 # Write a Hello, World Program in C: 80/100
