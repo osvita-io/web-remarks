@@ -1,9 +1,8 @@
 # A web app for marking student work
 
-web-remarks is intended as a platform for providing substantiating
-evidence for quantitative evaluations of student work (e.g., grades).
-The platform is designed to be web-based, offline-capable, and
-mobile-friendly.
+web-remarks is intended as a web-based, offline-capable, and
+mobile-friendly platform for providing substantiating evidence for
+quantitative evaluations of student work (e.g., grades).
 
 web-remarks is heavily inspired by, and is intended as a web-based
 front-end for [remarks](https://github.com/DIKU-EDU/remarks), a
