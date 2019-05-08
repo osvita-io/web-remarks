@@ -32,7 +32,7 @@ as follows:
 
 ```
 # Write a Hello, World Program in C: 80/100
-  * Wrote a working program, but forgot to add a line-break
+  * The code submitted compiles and runs, but forgot a terminating line-break
 ```
 
 Here, a top-level quantitative evaluation gives the student 80 points
@@ -50,7 +50,7 @@ One option is to enrich the qualitative remarks with mood marks:
 
 ```
 # Write a Hello, World Program in C: 80/100
-  + Wrote a working program
+  + The code submitted compiles and runs
   - Remembered a terminating line-break
 ```
 
@@ -59,7 +59,7 @@ negative. This could be turned into a template as follows:
 
 ```
 # Write a Hello, World Program in C: 0/100
-  * Wrote a working program
+  * The code submitted compiles and runs
   * Remembered a terminating line-break
 ```
 
@@ -67,7 +67,7 @@ Another, perhaps more clear, way to fill out this template might be:
 
 ```
 # Write a Hello, World Program in C: 80/100
-  * Wrote a working program
+  * The code submitted compiles and runs
     + Yes!
   * Remembered a terminating line-break
     - No :-(
@@ -80,9 +80,9 @@ explicitly segregated into some domain-specific parts:
 # Write a Hello, World Program in C: 80/100
 ## The code submitted compiles and runs: 50/50
   + Yes!
-## Writes Hello, World: 30/30
+## The program actually writes Hello, World: 30/30
   + Yes!
-## Writes a line break at the end: 0/20
+## Remembered a terminating line-break: 0/20
   - No :-(
 ```
 
@@ -91,8 +91,8 @@ The template here would then look as follows:
 ```
 # Write a Hello, World Program in C: 0/100
 ## The code submitted compiles and runs: 0/50
-## Writes Hello, World: 0/30
-## Writes a line break at the end: 0/20
+## The program actually writes Hello, World: 0/30
+## Remembered a terminating line-break: 0/20
 ```
 
 ## Common Framework
