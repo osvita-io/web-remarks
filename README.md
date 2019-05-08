@@ -35,9 +35,9 @@ quantitative evaluation_ of such a submission, may read as follows:
 ```
 
 Here, a top-level quantitative evaluation gives the student 80 points
-out of a possible 100. This is justified by the qualitative remark
-below it. The domain expert can now ponder over whether this
-grade (80/100) is fair.
+out of the possible 100. This is justified by the qualitative remark
+below it. The domain expert can now ponder over whether this grade
+(80/100) is fair.
 
 The qualitative remark given here is rather instance-specific. Given
 points (80) disregarded, this is not a great template to follow when
