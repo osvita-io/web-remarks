@@ -5,6 +5,12 @@ evidence for quantitative evaluations of student work (e.g., grades).
 The platform is designed to be web-based, offline-capable, and
 mobile-friendly.
 
+web-remarks is heavily inspired by, and is intended as a web-based
+front-end for [remarks](https://github.com/DIKU-EDU/remarks), a
+domain-specific language for marking student work, designed at the
+[Department of Computer Science at the University of Copenhagen
+(DIKU)](https://di.ku.dk/).
+
 ## Quantitative vs. Qualitative Evaluation
 
 A quantitative evaluation of student performance (e.g., a grade) is
@@ -55,9 +61,3 @@ It should be possible to both praise and condemn, beyond the scope of
 this baseline framework: It is hard to foresee student creativity and
 understanding. Elements of student work may both far exceed, and fall
 far below our expectations.
-
-## Background
-
-web-remarks is intended as a web-based interface for
-[remarks](https://github.com/DIKU-EDU/remarks), a domain-specific
-language for marking student work.
