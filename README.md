@@ -39,7 +39,7 @@ out of the possible 100. This is justified by the qualitative remark
 below it. The domain expert can now ponder over whether this grade
 (80/100) is fair.
 
-The qualitative remark given here is rather instance-specific. Given
+The qualitative remark given above is rather instance-specific. Given
 points (80) disregarded, this is not a great template to follow when
 judging others students: although it is important to check for a
 terminating line-break, the remark is not phrased as a Yes/No
