@@ -85,7 +85,7 @@ explicitly segregated into some domain-specific parts:
   - No :-(
 ```
 
-The template here would then look as follows:
+The template here would look as follows:
 
 ```
 # Write a Hello, World Program in C: 0/100
