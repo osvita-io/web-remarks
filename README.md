@@ -32,7 +32,7 @@ as follows:
 
 ```
 # Write a Hello, World Program in C: 80/100
-  * Wrote a working program, but forgot to add a line break
+  * Wrote a working program, but forgot to add a line-break
 ```
 
 Here, the student gets 80 points out of 100, and it is left for the
