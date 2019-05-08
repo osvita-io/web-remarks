@@ -73,7 +73,7 @@ Another, perhaps more clear, way to fill out this template might be:
 ```
 
 Finally, the quantitative evaluation may be even better off, if more
-explicitly segregated into some domain-specific parts:
+explicitly segregated into some sub-evaluations:
 
 ```
 # Write a Hello, World Program in C: 80/100
