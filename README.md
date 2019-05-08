@@ -13,8 +13,9 @@ domain-specific language for marking student work, designed at the
 ## Quantitative vs. Qualitative Evaluation
 
 A quantitative evaluation of student performance (e.g., a grade) is
-shallow without substantiating evidence. Such "evidence" can be
-_recursively_ provided by:
+shallow without substantiating evidence.
+
+Such "evidence" can be _recursively_ provided by:
 
 1. quantitative sub-evaluations (e.g., points given per
 part/exercise), and a formal strategy as to how these are combined
