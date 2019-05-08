@@ -72,7 +72,7 @@ Another, perhaps more clear, way to fill out this template might be:
     - No :-(
 ```
 
-Finally, the quantitative evaluation may be better off, if more
+Finally, the quantitative evaluation may be even better off, if more
 explicitly segregated into some domain-specific parts:
 
 ```
