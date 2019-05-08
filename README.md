@@ -26,10 +26,8 @@ quantitative evaluation.
 
 For example, consider a student being asked to "Write a Hello, World
 program in C". Let the student submit a program that does so, except
-that it does not write a terminating line-break.
-
-A quantitative evaluation, with a single qualitative remark, may read
-as follows:
+that it does not write a terminating line-break. A substantiated
+quantitative evaluation of such a submission, may read as follows:
 
 ```
 # Write a Hello, World Program in C: 80/100
