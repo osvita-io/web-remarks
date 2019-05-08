@@ -10,7 +10,7 @@ domain-specific language for marking student work, designed at the
 [Department of Computer Science at the University of Copenhagen
 (DIKU)](https://di.ku.dk/).
 
-## Quantitative vs. Qualitative Evaluation
+## Substantiating Quantitative Evaluations with Qualitative Remarks
 
 A quantitative evaluation of student performance (e.g., a grade) is
 shallow without substantiating evidence.
